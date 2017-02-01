@@ -1,3 +1,5 @@
 # Summary
 
-* [ebook-template](README.md)
+* [Readme](README.md)
+* [First Chapter](first-chapter.md)
+
